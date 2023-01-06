@@ -1,0 +1,24 @@
+{
+  "name": "vpn-peer",
+  "version": "1.0.0",
+  "description": "Networking proxy that serves to safely, easily, and rapidly, create and manage subnets, and share computing storage and processing resources (through containerisation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackstarTechnologies/VPN-Peer.git"
+  },
+  "keywords": [
+    "vpn-peer",
+    "end-to-end-encryption",
+    "p2p-file-sharing"
+  ],
+  "author": "Blackstar Technologies",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/BlackstarTechnologies/VPN-Peer/issues"
+  },
+  "homepage": "https://github.com/BlackstarTechnologies/VPN-Peer#readme"
+}
